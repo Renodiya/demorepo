@@ -6,3 +6,7 @@ going to make a change in feature branch
 
 # simultaneously making a change
 adding another text
+
+# conflict
+
+merge concept
